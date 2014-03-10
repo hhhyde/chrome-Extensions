@@ -11,4 +11,4 @@ Catalog:
 		it has functional as below:
 		1. Translation [English] to [Chinese]
 		2. add translated word to glossary notebook
-			i) Need user configuration own profile
+			i) Need user configuration own profiled
