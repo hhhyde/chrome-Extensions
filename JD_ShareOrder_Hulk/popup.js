@@ -5,7 +5,7 @@ var kittenGenerator = {
       chrome.tabs.getSelected(window.id,function(tab){
         url=tab.url.split('/')[3]
         item=url.substr(0,url.indexOf('.'))
-        url='http://kejt.cn/getRelByItem/'+item
+        url='http://kejt.cn/jd/getRelByItem/'+item
         isw.requestKittens(url)
       })
     })
